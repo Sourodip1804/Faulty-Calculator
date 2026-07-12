@@ -18,3 +18,11 @@ let a = prompt("enter first number: ")
 let b = prompt("enter first second number: ")
 let c = prompt("enter operation")
 
+let a = prompt("enter first number: ")
+let b = prompt("enter first second number: ")
+let c = prompt("enter operation")
+
+// definition of the object
+let obj
+
+
