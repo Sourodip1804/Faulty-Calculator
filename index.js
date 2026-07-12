@@ -27,5 +27,6 @@ let obj = {
     "/": "**",
 }
 
+// using if else statement for the operation
 
 
