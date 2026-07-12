@@ -23,7 +23,7 @@ let b = prompt("enter first second number: ")
 let c = prompt("enter operation")
 
 // definition of the object
-let obj{
+let obj = {
     "+": "-",
     "*": "+",
     "-": "/",
