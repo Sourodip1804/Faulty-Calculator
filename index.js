@@ -15,3 +15,4 @@ It performs wrong operation 10% of the times
 
 let random = Math.random()
 let a = prompt("enter first number ")
+
