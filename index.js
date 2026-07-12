@@ -29,4 +29,8 @@ let obj = {
 
 // using if else statement for the operation
 
+if (random > 0.1){
+    //Perform the correct calculation
+}
+
 
