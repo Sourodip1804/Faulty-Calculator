@@ -33,4 +33,9 @@ if (random > 0.1){
     //Perform the correct calculation
 }
 
+else{
+    //Perform Wrong operation
+    c = obj[c]
+}
+
 
