@@ -14,6 +14,7 @@ It performs wrong operation 10% of the times
 */
 
 let random = Math.random()
+console.log(random)
 let a = prompt("enter first number:")
 let c = prompt("enter operation")
 let b = prompt("enter first second number:")
