@@ -31,6 +31,8 @@ let obj = {
 
 if (random > 0.1){
     //Perform the correct calculation
+    alert(`The result is ${eval(`${a} ${c} ${b}`)}`)
+    
 }
 
 else{
